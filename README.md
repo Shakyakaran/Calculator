@@ -1,2 +1,4 @@
 # Calculator
-A mathematical calculator by use of js
+A mathematical calculator
+- language used - js , html , css
+  
